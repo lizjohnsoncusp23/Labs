@@ -1,2 +1,2 @@
 # Labs
-Lab notebooks
+Lab notebooks from Principle of Urban Informatics Fall 2022
